@@ -1,0 +1,14 @@
+/*
+Theme Name: Testing
+Text Domain: Testing
+Version: 1.0
+Description: desc
+Tags: testing, test
+Author: Roland
+Author URI: https://www.rolandw.dev
+*/
+
+body {
+	background-color: #121212;
+	color: #dedede;
+}
